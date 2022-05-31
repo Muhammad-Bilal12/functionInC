@@ -24,6 +24,7 @@ Functions with parameters and return value
 17. Function to find the area of a triangle 
 18. Function to find the distance between two circles 
 	distcircle(200,300, 50, 200, 400, 50); 
+	
 19 and 20. function to find the 80-90, 50-79, 1 to 50 people of ages
 
 	
