@@ -15,6 +15,6 @@ float triangle()
     scanf("%f", &height);
     printf("Base of Triangle : ");
     scanf("%f", &base);
-
+    // area = (height * base) / 2
     return (height * base) / 2;
 }

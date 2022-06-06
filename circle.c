@@ -13,6 +13,6 @@ float circle()
     printf("Find the area of the circle\n");
     printf("Enter radius of the circle : ");
     scanf("%f", &radius);
-
+    // Area of circle = pi * radius
     return pi * (radius * radius);
 }
